@@ -1,10 +1,11 @@
 /* global module:false */
 module.exports = function(grunt) {
-	var port = grunt.option('port') || 8000;
+	var port = grunt.option('port') || 8000
 	var base = grunt.option('base') || '.';
 
 	// Project configuration
 	grunt.initConfig({
+		port: process.env.PORT | 8080,
 		pkg: grunt.file.readJSON('package.json'),
 		meta: {
 			banner:
