@@ -1,5 +1,5 @@
 ## Solution
-- AL - NOW
+- AL - React
 	- Integrated system
 	- Automatic case creation
 	- Convenient
