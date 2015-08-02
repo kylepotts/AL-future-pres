@@ -1,3 +1,1 @@
 ## What If?
-
-###Insert video
