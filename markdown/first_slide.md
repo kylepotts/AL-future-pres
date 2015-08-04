@@ -1,3 +1,1 @@
 ## Futures Presentations
-
-#### KPCO
